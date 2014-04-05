@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4913
+
+Requires python.
+
+After installation, Ctrl-WheelUp increase the font size, Ctrl-WheelDown decrease the font size. This is almost like the standard interface for all things GUI because it's implemented by a LOT of them: chrome, firefox, editors, pdf readers and what have you.
